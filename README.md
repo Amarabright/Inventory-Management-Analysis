@@ -29,8 +29,10 @@ The goal of the snalysis is to:
    - Calculated columns and Measures
    - Navigaion panes, buttons and bookmarks
    - Data Viaulaization
-  ---
+ ---
   
-  ## Data Source
+ ## Data Source
+ The data used for this owrk is gotten from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis. You can find a link to get started with installation and rstoration of the database to your local machine here: 
+  
 
 
