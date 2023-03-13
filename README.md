@@ -85,7 +85,7 @@ Several expressions and functions were made to arrive at the desired KPI or Metr
 - Stock Turn = [COGS]/[CostofInventory]
 - ABC Ranking and XYZ analysis was also done.
 
-_All the formlulas for the calculated columns and measures can not be well explained by just writing the expressions here as they are written on vaarious tables. Kindly pardon me_   :smile:
+_All the formlulas for the calculated columns and measures can not be well explained by just writing the expressions here as they are written on various tables. Kindly pardon me_   :smile:
 
 
 ## Data Visualization
