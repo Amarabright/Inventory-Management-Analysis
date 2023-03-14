@@ -44,7 +44,7 @@ The goal of the analysis is to:
 
 The data used for this work is gotten from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis. 
 
-  You can find a link to get started with installation and restoration of the database to your local machine.  [here:](https://youtu.be/VpY0Q_kwtIw) 
+  - You can find a link to get started with installation and restoration of the database to your local machine.  [here:](https://youtu.be/VpY0Q_kwtIw) 
  ---
  
 ## Data Transformation:
@@ -60,6 +60,7 @@ The data used for this work is gotten from the AdventureWorks 2019 database 2019
 - I tranformed the data in Power Query, checked for Colum quality, consistent or appropriate data types
 - I began writing several Dax and creating measures and calculated columns to get the right metrics for the Inventory analysis.
 - I also created the calendar table
+- The queries i wrote on SQL are on compiled and also uploaded here in this repository as "Inventory Management Scripts"
 ---
 
 ## Data Modelling:
@@ -157,4 +158,8 @@ Insight Page
 
 - Overall, following up and adhering to the Safety Stocks and Re order points are necessary to meet up unexpected demands or supply disruptions. On -time production should be increase and regular inventory audits be carried out to ensure optimum inventory levels and reduced risk of overstocking or stockouts.
 
+---
+## Limitation
+
+You know this project is such that i do not have access to the employers else i would have asked several questions relating to the data and made more analysis like on the Production.Product table there is a column named "Size". The inputs there are not consistent like we have letters, numbers all mixed up together. Since i did not know the intended pattern for classifying the sizes, I couldnt clean the data and did not use the data for this analysis.
 
