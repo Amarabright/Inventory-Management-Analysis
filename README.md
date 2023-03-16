@@ -7,7 +7,7 @@ This is an Analysis to optimise inventory managemnt for **FitCapacity** company 
 ---
 
 ## Introduction:
-This is an Inventory Management analysis done with SQL and PowerBi, I analyzed Inventory data, production data and Sales data from the Adventure Works 2019 database. It is a fictitious company named "FitCapacity" and it is intended to solve some problems.
+This is an Inventory Management analysis done with SQL and PowerBI, I analyzed Inventory data, production data and Sales data from the AdventureWorks 2019 database. It is a fictitious company named "FitCapacity" and it is intended to solve some problems.
 
 **_Disclaimer_** This is not a real company as we know that adventure works database is compiled by Microsoft for learning purposes.
 
@@ -25,7 +25,7 @@ The goal of the analysis is to:
  ## Skills and Concepts demonstrated:
  
  - SQL (Select, alias, Views)
- - PowerBi concepts like:
+ - PowerBI concepts like:
    - creating columns for calculations for dates, time, and duration
    - Creating key performance indicators (KPIs) and other business calculations,
    - Developing general DAX calculations that deal with text and numbers,
@@ -36,8 +36,8 @@ The goal of the analysis is to:
    - filters,
    - tooltips, 
    - buttons,
-   - bookmarks
-   - Data Viaulaization
+   - bookmarks,
+   - Data Visualization
  ---
   
  ## Data Source:
@@ -54,7 +54,7 @@ The data used for this work is gotten from the AdventureWorks 2019 database 2019
 - Then i imported the views into my PowerBI desktop app 
 ![](SQL_PWBI.png)
 
-- Then i selected the right views i had created in SQL. From here, we know the right tables from AdventureWORKS to use.
+- Then i selected the right views i had created in SQL. From here, we know the right tables from AdventureWorks to use.
 ![](SQL_Tables.png)
 
 - I tranformed the data in Power Query, checked for Colum quality, consistent or appropriate data types
@@ -161,5 +161,5 @@ Insight Page
 ---
 ## Limitation
 
-You know this project is such that i do not have access to the employers else i would have asked several questions relating to the data and made more analysis like on the Production.Product table there is a column named "Size". The inputs there are not consistent like we have letters, numbers all mixed up together. Since i did not know the intended pattern for classifying the sizes, I couldnt clean the data and did not use the data for this analysis.
+You know this project is such that i do not have access to the employers else i would have asked several questions relating to the data and made more analysis like on the Production.Product table there is a column named "Size". The inputs there are not consistent like we have letters, numbers all mixed up together. Since i did not know the intended pattern for classifying the sizes, I couldn't clean the data and did not use the data for this analysis.
 
