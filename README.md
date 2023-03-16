@@ -55,6 +55,7 @@ The data used for this work is gotten from the AdventureWorks 2019 database 2019
 ![](SQL_PWBI.png)
 
 - Then i selected the right views i had created in SQL. From here, we know the right tables from AdventureWorks to use.
+
 ![](SQL_Tables.png)
 
 - I tranformed the data in Power Query, checked for Colum quality, consistent or appropriate data types
