@@ -65,7 +65,7 @@ The data used for this work is gotten from the AdventureWorks 2019 database 2019
 ---
 
 ## Data Modelling:
-The intelligence in PowerBi makes it such that tables are automatically joined by creating relationships with them. However, as someone that understands the dataset and want to get secific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 8 dimension tables and 2 fact tables as i hoped for a Star Schema.
+The intelligence in PowerBI makes it such that tables are automatically joined by creating relationships with them. However, as someone that understands the dataset and want to get secific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 7 dimension tables and 2 fact tables as i hoped for a Star Schema.
 
 Created Model               |        Automated Model
 :------------------------:  | :----------------------------------:
@@ -132,7 +132,7 @@ Insight Page
 - Bike sales has the highest impact on Inventory and Sales followed by Accessories.
 - There is a 42%  Stock turn ratio
 - On time Production is 48%
-- 98% of the entire products needs to be replaced for sales.
+- 93% of the entire products needs to be replaced for sales.
 
 
 ## Insights and Recommendation
