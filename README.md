@@ -1,6 +1,6 @@
 
 # Inventory-Management-Analysis
-This is an Analysis to optimise inventory managemnt for **FitCapacity** company by analyzing sales and inventory data using SQL and PowerBI
+This is an Analysis to optimise inventory management for **FitCapacity** company by analyzing sales and inventory data using SQL and PowerBI
 
 ![](Warehoursepic.jpg)
 
