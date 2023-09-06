@@ -43,30 +43,30 @@ The goal of the analysis is to:
   
  ## Data Source:
 
-The data used for this work is gotten from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis. 
+The data used for this work is obtained from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis. 
 
   - You can find a link to get started with installation and restoration of the database to your local machine.  [here:](https://youtu.be/VpY0Q_kwtIw) 
  ---
  
 ## Data Transformation:
-- Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management studio.
+- Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management Studio.
 ![](SQL_view.png)
 
-- Then i imported the views into my PowerBI desktop app 
+- Then I imported the views into my PowerBI desktop app 
 ![](SQL_PWBI.png)
 
-- Then i selected the right views i had created in SQL. From here, we know the right tables from AdventureWorks to use.
+- Then I selected the right views I had created in SQL. From here, we know the right tables from AdventureWorks to use.
 
 ![](SQL_Tables.png)
 
-- I tranformed the data in Power Query, checked for Colum quality, consistent or appropriate data types
+- I transformed the data in Power Query, checked for Colum quality, consistent or appropriate data types
 - I began writing several Dax and creating measures and calculated columns to get the right metrics for the Inventory analysis.
 - I also created the calendar table
-- The queries i wrote on SQL are on compiled and also uploaded here in this repository as "Inventory Management Scripts"
+- The queries I wrote on SQL are  compiled and also uploaded here in this repository as "Inventory Management Scripts"
 ---
 
 ## Data Modelling:
-The intelligence in PowerBI makes it such that tables are automatically joined by creating relationships with them. However, as someone that understands the dataset and want to get secific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 7 dimension tables and 2 fact tables as i hoped for a Star Schema.
+The intelligence in PowerBI makes it such that tables are automatically joined by creating relationships with them. However, as someone who understands the dataset and wants to get specific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 7 dimension tables and 2 fact tables as I hoped for a Star Schema.
 
 Created Model               |        Automated Model
 :------------------------:  | :----------------------------------:
@@ -102,9 +102,9 @@ The report can be interacted with on the PowerBI service [here:](https://app.pow
 
 ## Features of the Report
 
-The hamburger icon is a button that helps you to view the different pages. When you hover on it, you will see an effect and a click on it will open up a navigation pane that has buttons to direct to the desired page you want to see. After which you can always return to the hamburger button when done. 
+The hamburger icon is a button that helps you to view the different pages. When you hover on it, you will see an effect and a click on it will open up a navigation pane that has buttons to direct you to the desired page you want to see. After which you can always return to the hamburger button when done. 
 To get the insight, you click on the **black info icon** which will lead you to the insight page.
-The Linkedin icon functions very well too as a click on it will take you to my linkedin profile, if you wish to contact me. I think you should. so i knwo how you feel about this project :grinning:
+The LinkedIn icon functions very well too as a click on it will take you to my LinkedIn profile if you wish to contact me. I think you should. so i know how you feel about this project :grinning:
 
 
 Here are the reports:
